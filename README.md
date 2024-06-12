@@ -49,8 +49,8 @@
 | an |  |  |
 | un |  |  |
 
-- 示例
 
+- 示例
 
 ![7242083ae9391d44a024adf4dd67d0e](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/e97ad8f3-5a9e-44a7-a2c1-75a5ccf66bd1)
 ![9fa4455733a3a0ede752a2eb5636d24](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/ea78b5b1-0cef-4bf9-932d-366a6def9609)
