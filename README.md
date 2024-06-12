@@ -12,6 +12,7 @@
 ![7242083ae9391d44a024adf4dd67d0e](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/e97ad8f3-5a9e-44a7-a2c1-75a5ccf66bd1)
 ![9fa4455733a3a0ede752a2eb5636d24](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/ea78b5b1-0cef-4bf9-932d-366a6def9609)
 ![6908ec8d459fabc82b390af68dce728](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/58a50898-4beb-4893-bb97-a3967a0f963a)
+![fuhe](https://github.com/Andy766/Easy-memorize-English-by-typing-Chinese-words/assets/58882497/f80898a8-2813-4446-84f7-55c4a05f6eaf)
 
 
 - 按键映射
