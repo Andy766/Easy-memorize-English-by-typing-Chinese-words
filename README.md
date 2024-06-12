@@ -46,6 +46,8 @@
 | off | ff |  |
 | done | dne |  |
 | down | dw/dwn |  |
+| an |  |  |
+| un |  |  |
 
 - 示例
 
