@@ -53,6 +53,7 @@
 | think | tnk |  |
 | point | pot |  |
 | put | pt |  |
+| but | bv | bt |
 | one | ee |  |
 | off | ff |  |
 | done | dne |  |
