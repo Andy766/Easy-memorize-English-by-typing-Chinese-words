@@ -50,6 +50,9 @@
   
 | 没想好用什么代替 | 目前方案 | 备注 |
 |---|---|---|
+| think | tnk |  |
+| point | pot |  |
+| put | pt |  |
 | one | ee |  |
 | off | ff |  |
 | done | dne |  |
