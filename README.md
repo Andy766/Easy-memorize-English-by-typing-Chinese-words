@@ -50,6 +50,7 @@
   
 | 没想好用什么代替 | 目前方案 | 备注 |
 |---|---|---|
+| doing | dg |  |
 | think | tnk |  |
 | point | pot |  |
 | put | pt |  |
