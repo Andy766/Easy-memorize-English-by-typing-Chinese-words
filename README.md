@@ -54,9 +54,13 @@
 | off | ff |  |
 | done | dne |  |
 | down | dw/dwn |  |
-| an |  |  |
+| an | ax |  |
 | un |  |  |
+| any | axx | ann |
 | end |  |  |
 | want |  |  |
+| our | ou |  |
+| ours | ous |  |
+| other | or |  |
 
 
