@@ -60,6 +60,8 @@
 | off | ff |  |
 | done | dne |  |
 | down | dw/dwn |  |
+| many | mv |  |
+| much | mc |  |
 | more | mr | mor |
 | an | ax |  |
 | un |  |  |
