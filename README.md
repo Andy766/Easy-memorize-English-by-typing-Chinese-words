@@ -58,7 +58,7 @@
 | got | got |  |
 | one | ee |  |
 | off | ff |  |
-| done | dne |  |
+| done | dne | dee |
 | down | dw/dwn |  |
 | many | mv |  |
 | much | mc |  |
