@@ -55,7 +55,7 @@
 | point | pot |  |
 | put | pt |  |
 | but | bv | bt |
-| got | got |  |
+| got | go |  |
 | one | ee |  |
 | off | ff |  |
 | done | dne | dee |
