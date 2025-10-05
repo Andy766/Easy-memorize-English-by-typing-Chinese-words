@@ -1,4 +1,4 @@
-# 被动记忆英语词库
+<img width="499" height="244" alt="Clip_2025-10-05_08-13-01" src="https://github.com/user-attachments/assets/963f881f-7975-46c0-86b7-513d0d771e20" /># 被动记忆英语词库
 ## 简介
 - 设计理念 - 简单学英语-慢就是快
 - 中英文输入对照-改造输入法-通过打字的过程 实现主动学习+被动强化记忆
@@ -14,6 +14,7 @@
 ![9fa4455733a3a0ede752a2eb5636d24](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/ea78b5b1-0cef-4bf9-932d-366a6def9609)
 ![6908ec8d459fabc82b390af68dce728](https://github.com/Andy766/memorize-English-by-mapping-Chinese-words/assets/58882497/58a50898-4beb-4893-bb97-a3967a0f963a)
 ![fuhe](https://github.com/Andy766/Easy-memorize-English-by-typing-Chinese-words/assets/58882497/f80898a8-2813-4446-84f7-55c4a05f6eaf)
+![recording](https://github.com/user-attachments/assets/8ff737aa-ff26-4408-821f-7cdbd77ef7c9)
 
 
 - 按键映射
