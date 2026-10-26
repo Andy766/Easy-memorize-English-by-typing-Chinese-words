@@ -1,4 +1,4 @@
-<img width="499" height="244" alt="Clip_2025-10-05_08-13-01" src="https://github.com/user-attachments/assets/963f881f-7975-46c0-86b7-513d0d771e20" /># 被动记忆英语词库
+<img width="499" height="244" alt="Clip_2025-10-05_08-13-01" src="" /># 被动记忆英语词库
 ## 简介
 - 设计理念 - 简单学英语-慢就是快
 - 中英文输入对照-改造输入法-通过打字的过程 实现主动学习+被动强化记忆
